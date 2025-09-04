@@ -84,7 +84,7 @@ released. Follow these steps precisely:
         * A list of projects that failed, specifying which command
         failed for each.
 
-8. Create Pull Request:
+8. 创建pull request:
    * After generating the report, create a pull request.
    * Use the `gh` CLI tool for this purpose.
    * The title of the pull request should be: `Prepare release for
